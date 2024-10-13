@@ -1,4 +1,4 @@
-#!/usr/bin/python3 -m tkinter
+#!/usr/bin/python3
 
 # Author: Kevin S. Yonan | 2015
 # License: MIT License
